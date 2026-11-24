@@ -10,6 +10,13 @@ desktop.ini
 # 本地代理/工具数据（不上传）
 .workbuddy/
 
+# Obsidian：布局状态每次开关都变，且含本机路径，不上传
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.trash/
+
 # 临时目录
 tmp/
 temp/
